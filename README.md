@@ -1,4 +1,4 @@
-# **Sprint 2: Desafio**
+# **dimensional-data-modeling**
 
 ## **1. Objetivos**
 
